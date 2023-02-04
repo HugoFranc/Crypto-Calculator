@@ -15,15 +15,17 @@
   </p>
 </p>
 
-Cryptocurrency calculator mobile application for iOS and Android using the Flutter
+## Cryptocurrency calculator 
+- Mobile application for iOS and Android, developed with Dart & Flutter
+- This calculator allows the user to do conversions between any two currencies of their choosing and integrates the Coinlayer API to offer precise and up-to-date information on a range of currencies.
 
-This calculator allows the user to do conversions between any two currencies of their choosing and integrates the coinlayer API to offer precise and up-to-date information on a range of currencies (max supply).
 
 ## Getting Started
 
-This app uses the [coinlayer Api](https://coinlayer.com/) in where you can get your free public API key
+1. Get free API Key: [Coinlayer API](https://coinlayer.com/)
 
-Create a `.env` file and inside input the following
+
+2. Create a `.env` file and add the following information
 
 ```
   ACCESS_KEY = 'YOUR_API_KEY'
