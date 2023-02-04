@@ -17,7 +17,7 @@
 
 Cryptocurrency calculator mobile application for iOS and Android using the Flutter
 
-Integrates the coinlayer API to deliver accurate and up-to-date information on a variety of currencies, including current prices and also implemented a feature enabling users to per- form conversions between any two currencies of their choice.
+Integrates the coinlayer API to deliver accurate and up-to-date information on a variety of currencies, including current prices and also implemented a feature enabling users to perform conversions between any two currencies of their choice.
 
 
 ## Getting Started
